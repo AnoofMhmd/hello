@@ -1,4 +1,5 @@
-Welcome.
-This is file1.
-This file is created by AnoofMhmd.
-Thank You.
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
